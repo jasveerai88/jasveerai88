@@ -27,6 +27,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 
 **[Quote Follow-Up](https://github.com/jasveerai88/quote-follow-up)** — never lose a quote to silence: a tiny local board that flags follow-ups due at 3, 7 and 14 days and writes the message for you.
 
+**[Creator Dedupe](https://github.com/jasveerai88/creator-dedupe)** — stop repeating your own topics: checks a new video idea against everything you've published and flags duplicates before you produce them.
+
 ## Sponsor
 My GitHub Sponsors profile is LIVE: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) — or use the Sponsor button on any repo. Sponsorships keep these tools free and fund new ones.
 
