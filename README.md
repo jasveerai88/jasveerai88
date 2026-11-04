@@ -21,6 +21,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 
 **[Shorts Caption Studio](https://github.com/jasveerai88/shorts-caption-studio)** — animated word-highlight captions for Shorts, locally: the subscription-tool look without the subscription. Word timing honestly labelled as estimated.
 
+**[Seller Profit Truth](https://github.com/jasveerai88/seller-profit-truth)** — true per-listing profit for Etsy & Gumroad sellers: every fee line separately, loss-makers flagged, break-even prices that survive the fees.
+
 ## Sponsor
 My GitHub Sponsors profile is LIVE: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) — or use the Sponsor button on any repo. Sponsorships keep these tools free and fund new ones.
 
