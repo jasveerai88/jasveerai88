@@ -25,6 +25,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 
 **[GST/HST Tracker](https://github.com/jasveerai88/gst-hst-tracker)** — GST/HST tracking for Canadian freelancers & small business: net tax owing per quarter, ITCs, and the $30,000 small-supplier alarm before it surprises you. A prep aid, not tax advice.
 
+**[Quote Follow-Up](https://github.com/jasveerai88/quote-follow-up)** — never lose a quote to silence: a tiny local board that flags follow-ups due at 3, 7 and 14 days and writes the message for you.
+
 ## Sponsor
 My GitHub Sponsors profile is LIVE: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) — or use the Sponsor button on any repo. Sponsorships keep these tools free and fund new ones.
 
