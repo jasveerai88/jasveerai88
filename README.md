@@ -3,6 +3,8 @@
 I build free, local-first tools for faceless and AI video creators — from measured failure data on real channels, not opinions.
 
 ## Featured
+**[Skill Vet](https://github.com/jasveerai88/skill-vet)** — NEW: vet an agent skill before you install it. Static, read-only audit of the whole pack that proves stealing, spying, and hidden sending as combinations, with file-and-line evidence. One-command install, demo in the repo.
+
 **[Faceless QC Lite](https://github.com/jasveerai88/faceless-qc-lite)** — free pre-upload checker for faceless videos: loudness, dead air, black frames, caption speed, resolution. Runs 100% on your machine. MIT.
 
 Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) before upload.
@@ -58,6 +60,9 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Sub Watch](https://github.com/jasveerai88/sub-watch)** — Watches a general contractor's registry of subcontractor compliance documents — insurance certificates, WSIB/WCB clearances, licences — and produces the 90/60/30/7-day chase report plus ready-to-send renewal-request letters.
 **[UTM Governor](https://github.com/jasveerai88/utm-governor)** — Governance for campaign links: lints a link registry against your own conventions file (allowed sources, casing, patterns) and bulk-builds new links that obey them — the half of link management the SaaS tools charge monthly for.
 **[Permission Audit](https://github.com/jasveerai88/permission-audit)** — Audits a Claude Code permission allowlist chain: wildcard grants, dangerous modes committed to shared settings, and rules that can never fire because a wider rule above them wins.
+**[T3010 Pre-Flight Checker](https://github.com/jasveerai88/t3010-check)** — Pre-flight for the Canadian charity T3010 return: missing schedules and worksheets, totals that don't reconcile, receipt-register mismatches, and the six-month filing deadline — catches draft errors before the CRA does.
+**[Worktree Janitor](https://github.com/jasveerai88/worktree-janitor)** — Read-only inventory of your git worktrees and branches with safe-to-remove verdicts — it prints the cleanup plan and never deletes anything itself.
+**[Skill Vet](https://github.com/jasveerai88/skill-vet)** — Vets a whole agent-skill pack before you install it: broken structure plus the only three dangers that count — stealing, spying, and hidden sending, proven as combinations with file and line evidence.
 
 
 
