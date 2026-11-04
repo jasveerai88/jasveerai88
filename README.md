@@ -30,6 +30,10 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Creator Dedupe](https://github.com/jasveerai88/creator-dedupe)** — stop repeating your own topics: checks a new video idea against everything you've published and flags duplicates before you produce them.
 
 **[Brand-Deal Pipeline](https://github.com/jasveerai88/brand-deal-pipeline)** — brand deals from pitch to actually-paid: deliverable deadlines, forgotten invoices, and unpaid-invoice chasing on one tiny local board.
+**[Clip Miner](https://github.com/jasveerai88/clip-miner)** — your next Short is already inside your long video: ranks the most clip-worthy moments from the transcript and cuts them for you.
+
+**[Booking Board](https://github.com/jasveerai88/booking-board)** — a tiny local appointment board for small clinics, salons & trades: double-bookings refused, free slots shown, reminders written for you.
+
 
 ## Sponsor
 My GitHub Sponsors profile is LIVE: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) — or use the Sponsor button on any repo. Sponsorships keep these tools free and fund new ones.
