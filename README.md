@@ -19,6 +19,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 
 **[Retention Checker](https://github.com/jasveerai88/retention-checker)** — pre-publish retention check for faceless & AI video: hook window, dead zones, caption pacing, loudness, platform spec. Refuses to pass a video it can't measure.
 
+**[Shorts Caption Studio](https://github.com/jasveerai88/shorts-caption-studio)** — animated word-highlight captions for Shorts, locally: the subscription-tool look without the subscription. Word timing honestly labelled as estimated.
+
 ## Sponsor
 My GitHub Sponsors profile is LIVE: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) — or use the Sponsor button on any repo. Sponsorships keep these tools free and fund new ones.
 
