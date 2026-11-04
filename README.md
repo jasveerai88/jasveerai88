@@ -43,6 +43,9 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Holdback Ledger](https://github.com/jasveerai88/holdback-ledger)** — Canadian construction holdback tracker with Ontario's mandatory annual release cascade: Form 6 notice in 14 days, payment in the day 60–74 window, subs paid within 14 days. Overdue releases flagged with exact dates.
 **[Secret Guard](https://github.com/jasveerai88/secret-guard)** — Finds inline secrets in AI-agent and MCP config files and fixes them: live keys rewritten into environment-variable references, backup first, reports never print a secret.
 **[Link-Rot](https://github.com/jasveerai88/link-rot)** — Audits a creator's video-description catalogue for link rot: malformed, placeholder and dead-domain links, conflicting duplicates, tracking clutter. Structural only — it never fetches a link.
+**[Wall-of-Love](https://github.com/jasveerai88/wall-of-love)** — Turns a testimonials file into one self-contained wall-of-love page with schema.org JSON-LD generated from the same data — the Senja alternative with no monthly fee and no fabricated reviews.
+**[Review-Request](https://github.com/jasveerai88/review-request)** — Generates polite review requests and tracks the cadence: ask once, one nudge at 7 days, never a third ask. Never sends anything itself, never offers incentives — the Podium job without the $399/mo.
+**[Stock Gate](https://github.com/jasveerai88/stock-gate)** — Validates stock-media metadata CSVs against per-agency rules (Adobe, Vecteezy, Dreamstime) before upload: title, keyword, category and image-size checks, including Adobe's 4 MP floor. The pre-upload gate for our own stock pipeline.
 
 
 
