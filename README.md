@@ -34,6 +34,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 
 **[Booking Board](https://github.com/jasveerai88/booking-board)** — a tiny local appointment board for small clinics, salons & trades: double-bookings refused, free slots shown, reminders written for you.
 **[Podcast Kit](https://github.com/jasveerai88/podcast-kit)** — episode notes in, publish-ready assets out: show notes, validated chapters for YouTube + Podcasting 2.0, and an honest audiogram clip plan.
+**[Localization Packager](https://github.com/jasveerai88/localization-packager)** — package a video for other languages without translating anything yourself: delivery checklists, translator hand-off sheets, and a check that no file is missing or mistimed.
+
 
 
 
