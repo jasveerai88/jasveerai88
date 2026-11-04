@@ -39,6 +39,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Audience Zombie](https://github.com/jasveerai88/audience-zombie)** — Mailchimp bills you for dead contacts: audits your list export for unsubscribed zombies and cross-audience duplicates, priced from your own bill. Local only, addresses masked.
 **[Slip Watch](https://github.com/jasveerai88/slip-watch)** — Canadian T4A (Box 048) + T5018 tracker: cumulative contractor payments against the $500 rule, filing sheet ready, penalties resume for 2026. Stores no SINs, ever.
 **[Clone-Guard](https://github.com/jasveerai88/clone-guard)** — Scans a cloned repo before you (or your AI agent) open it: finds the config files that run code on open — Claude Code hooks, VS Code folderOpen tasks, devcontainer commands, npm install scripts. Provably read-only.
+**[Link-Page Kit](https://github.com/jasveerai88/link-page-kit)** — One config file in, one self-contained link page out: a Linktree replacement with no trackers, no monthly fees and no lock-in. Dangerous URLs refused, page references only your own links.
+**[Holdback Ledger](https://github.com/jasveerai88/holdback-ledger)** — Canadian construction holdback tracker with Ontario's mandatory annual release cascade: Form 6 notice in 14 days, payment in the day 60–74 window, subs paid within 14 days. Overdue releases flagged with exact dates.
 
 
 
