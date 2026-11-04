@@ -33,6 +33,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Clip Miner](https://github.com/jasveerai88/clip-miner)** — your next Short is already inside your long video: ranks the most clip-worthy moments from the transcript and cuts them for you.
 
 **[Booking Board](https://github.com/jasveerai88/booking-board)** — a tiny local appointment board for small clinics, salons & trades: double-bookings refused, free slots shown, reminders written for you.
+**[Podcast Kit](https://github.com/jasveerai88/podcast-kit)** — episode notes in, publish-ready assets out: show notes, validated chapters for YouTube + Podcasting 2.0, and an honest audiogram clip plan.
+
 
 
 ## Sponsor
