@@ -36,6 +36,8 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Podcast Kit](https://github.com/jasveerai88/podcast-kit)** — episode notes in, publish-ready assets out: show notes, validated chapters for YouTube + Podcasting 2.0, and an honest audiogram clip plan.
 **[Localization Packager](https://github.com/jasveerai88/localization-packager)** — package a video for other languages without translating anything yourself: delivery checklists, translator hand-off sheets, and a check that no file is missing or mistimed.
 **[Scaffolder](https://github.com/jasveerai88/scaffolder)** — safe batch renames for messy media folders: plan first, apply all-or-nothing, undo restores everything. A collision refuses the whole run.
+**[Audience Zombie](https://github.com/jasveerai88/audience-zombie)** — Mailchimp bills you for dead contacts: audits your list export for unsubscribed zombies and cross-audience duplicates, priced from your own bill. Local only, addresses masked.
+
 
 
 
