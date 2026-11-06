@@ -5,6 +5,7 @@ I build free, local-first tools for faceless and AI video creators — from meas
 ## Featured
 **[Skill Vet](https://github.com/jasveerai88/skill-vet)** — NEW: vet an agent skill before you install it. Static, read-only audit of the whole pack that proves stealing, spying, and hidden sending as combinations, with file-and-line evidence. One-command install, demo in the repo.
 **[Skill Claims](https://github.com/jasveerai88/skill-claims)** — NEW: does a skill do what it claims? Checks every claim in a skill's description against its own code and prints a receipt — SUPPORTED / UNEVIDENCED / CONTRADICTED, with file-and-line evidence. Deterministic, local, no LLM, no score. The honesty pair to Skill Vet.
+**[Spec Receipt](https://github.com/jasveerai88/spec-receipt)** — NEW: does the code still match the spec? Checks a Python project's spec against its flags, commands, endpoints, config keys and env vars and prints a drift receipt — IMPLEMENTED / MISSING / CONTRADICTED, cited to file-and-line on both sides. It survived its own dogfood gate: zero false accusations on 3 real projects.
 
 **[Faceless QC Lite](https://github.com/jasveerai88/faceless-qc-lite)** — free pre-upload checker for faceless videos: loudness, dead air, black frames, caption speed, resolution. Runs 100% on your machine. MIT.
 
@@ -65,6 +66,7 @@ Real catch: it flagged one of my own videos at −21.6 LUFS (target −14) befor
 **[Worktree Janitor](https://github.com/jasveerai88/worktree-janitor)** — Read-only inventory of your git worktrees and branches with safe-to-remove verdicts — it prints the cleanup plan and never deletes anything itself.
 **[Skill Vet](https://github.com/jasveerai88/skill-vet)** — Vets a whole agent-skill pack before you install it: broken structure plus the only three dangers that count — stealing, spying, and hidden sending, proven as combinations with file and line evidence.
 **[Skill Claims](https://github.com/jasveerai88/skill-claims)** — Receipts for agent skills: extracts the claims a skill makes about itself and checks each one against its own code — SUPPORTED, UNEVIDENCED or CONTRADICTED, always with file-and-line evidence. No LLM, no network, no score.
+**[Spec Receipt](https://github.com/jasveerai88/spec-receipt)** — Receipts for spec drift: checks a Python project's written spec against its CLI flags and commands, HTTP endpoints, config keys and environment variables — IMPLEMENTED, MISSING or CONTRADICTED per spec item, DOCUMENTED or UNDOCUMENTED per code surface, every verdict cited on both sides. Deterministic, local, stdlib only.
 
 
 
